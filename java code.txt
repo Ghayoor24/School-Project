@@ -1,4 +1,4 @@
-
+ONE OF GOOD JAVA ADVANTURE GAME
 I'm making a text based java game to help me learn java. I would like to know if I am doing things ok and if there is a better way to do the things I'm doing thanks. I have two separate files.
 
 adventure.java
